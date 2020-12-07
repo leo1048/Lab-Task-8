@@ -1,0 +1,10 @@
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\bin\Debug\lt8.exe.config
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\bin\Debug\lt8.exe
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\bin\Debug\lt8.pdb
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.csprojAssemblyReference.cache
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.Form1.resources
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.Properties.Resources.resources
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.csproj.GenerateResource.cache
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.csproj.CoreCompileInputs.cache
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.exe
+C:\Users\Leo Mohon\Desktop\lt8\lt8\lt8\obj\Debug\lt8.pdb
